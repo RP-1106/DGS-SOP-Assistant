@@ -1,0 +1,18 @@
+# Secrets
+.env
+backend/credentials.json
+backend/token.pickle
+errors.txt
+output.txt
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/
